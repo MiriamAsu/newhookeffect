@@ -1,46 +1,70 @@
-<!-- PROJECT LOGO -->
-<p align="end">
-	<img src="https://raw.githubusercontent.com/DafetiteOgaga/dafetite_logo/main/dafetite-ogaga-logo.png" alt="Dafetite Ogaga" width="100" />
-</p>
+# Getting Started with Create React App
 
-<h1 align="center">
-  <code>newhookeffect</code> was auto-created using the <code>createRepo</code> command from 
-  <a href="https://github.com/DafetiteOgaga/custom_commands">Custom Commands</a> CLI
-</h1>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p align="center">
-  With Custom Commands CLI you can automate and simplify your daily developer tasks across Git, Django, React, Bash, and more.
-  <!-- <br />
-  <a href="#usage">View Demo</a>
-  ·
-  <a href="#installation">Installation</a>
-  ·
-  <a href="#contributing">Contribute</a>
-  ·
-  <a href="#license">License</a> -->
-</p>
+## Available Scripts
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Type-CLI-green.svg">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://img.shields.io/badge/Platform-Bash%20%7C%20Linux%20%7C%20Mac%20%7C%20GitBash-blue">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg">
-</p>
+In the project directory, you can run:
 
----
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Custom Commands CLI** is a powerful collection of shell-based utilities that abstract repetitive command-line tasks into friendly, memorable shortcuts.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Ideal for developers working with:
+### `npm test`
 
-- ✅ Git (e.g., `push, pull, pushfile, gitignore, etc`)
-- ✅ Django (e.g., `startproject, startapp, runserver, etc`)
-- ✅ React / JS / Python
-- ✅ MySQL / MongoDB
-- ✅ C language compilation
-- ✅ And more...
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-###### *We Rise by Lifting Others.*
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
