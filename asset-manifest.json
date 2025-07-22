@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newhookeffect/static/css/main.ede1ecd7.css",
+    "main.js": "/newhookeffect/static/js/main.971795be.js",
+    "static/js/453.ed39faff.chunk.js": "/newhookeffect/static/js/453.ed39faff.chunk.js",
+    "index.html": "/newhookeffect/index.html",
+    "main.ede1ecd7.css.map": "/newhookeffect/static/css/main.ede1ecd7.css.map",
+    "main.971795be.js.map": "/newhookeffect/static/js/main.971795be.js.map",
+    "453.ed39faff.chunk.js.map": "/newhookeffect/static/js/453.ed39faff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede1ecd7.css",
+    "static/js/main.971795be.js"
+  ]
+}
