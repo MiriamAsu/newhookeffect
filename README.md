@@ -43,4 +43,4 @@ Ideal for developers working with:
 
 ---
 
-###### *We Rise by Lifting Others.*
+###### we rise by lifting others
